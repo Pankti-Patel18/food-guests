@@ -1,2 +1,2 @@
-Look: Check the cheese is melt or not.
+Look: Check the cheese is properly melt or not.
 Taste: Taste the slice of pizza to ensure spiciness of it.
